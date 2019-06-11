@@ -1,0 +1,25 @@
+maxCurrent 20.0 mAmp
+pulseDuration 100.0 us
+waveFormLen 200.0 us
+noiseAmp 1.0 mAmp
+sampRate 10.0 samp/us
+pulseDelay 50.0 us
+Slit ITSF_Diag:Slit_HZ04
+Harp ITSF_Diag:Slit_HZ06
+SlitRb ITSF_Diag:Slit_HZ04:PositionSync
+HarpRb ITSF_Diag:Slit_HZ06:PositionSync
+Signal ITSF_Diag:BS06:WF
+repRate 5.0 Hz
+x1 8.0 mm
+xPrime1 0.0 mrad
+x2 32.0 mm
+dXPrime 15.0 mrad
+slope -0.5 rad/m
+positionStep 0.5 mm
+angleStep 0.5 mrad
+baseLine 10.0 us
+integStart 40.0 us
+integEnd 60.0 us
+DataPath /ade/Diag/data
+SystemType BTF
+SlitHarp 946.15

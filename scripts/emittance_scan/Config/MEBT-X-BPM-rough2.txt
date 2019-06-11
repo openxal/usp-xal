@@ -1,0 +1,25 @@
+maxCurrent 20.0 mAmp
+pulseDuration 100.0 us
+waveFormLen 200.0 us
+noiseAmp 1.0 mAmp
+sampRate 1.0 samp/us
+pulseDelay 50.0 us
+SlitHarp 353
+Slit MEBT_Diag:EMS_X
+Harp MEBT_Diag:EMC_X
+SlitRb MEBT_Diag:EMS_X:PosmmMon
+HarpRb MEBT_Diag:EMC_X:PosmmMon
+Signal HEBT_Diag:HBPM01:Left:TBT, HEBT_Diag:HBPM01:Right:TBT, HEBT_Diag:HBPM01:Left:TBT2, HEBT_Diag:HBPM01:Right:TBT2, HEBT_Diag:HBPM01:Up:TBT, HEBT_Diag:HBPM01:Down:TBT, HEBT_Diag:HBPM01:Up:TBT2, HEBT_Diag:HBPM01:Down:TBT2, HEBT_Diag:HBPM02:Left:TBT,HEBT_Diag:HBPM02:Right:TBT, HEBT_Diag:HBPM02:Left:TBT2, HEBT_Diag:HBPM02:Right:TBT2, HEBT_Diag:HBPM02:Up:TBT, HEBT_Diag:HBPM02:Down:TBT, HEBT_Diag:HBPM02:Up:TBT2, HEBT_Diag:HBPM02:Down:TBT2, HEBT_Diag:HBPM03:Left:TBT, HEBT_Diag:HBPM03:Right:TBT, HEBT_Diag:HBPM03:Left:TBT2, HEBT_Diag:HBPM03:Right:TBT2, HEBT_Diag:HBPM03:Up:TBT, HEBT_Diag:HBPM03:Down:TBT, HEBT_Diag:HBPM03:Up:TBT2, HEBT_Diag:HBPM03:Down:TBT2, HEBT_Diag:HBPM04:Left:TBT, HEBT_Diag:HBPM04:Right:TBT, HEBT_Diag:HBPM04:Left:TBT2, HEBT_Diag:HBPM04:Right:TBT2, HEBT_Diag:HBPM04:Up:TBT, HEBT_Diag:HBPM04:Down:TBT, HEBT_Diag:HBPM04:Up:TBT2, HEBT_Diag:HBPM04:Down:TBT2
+repRate 5.0 Hz
+x1 12.0 mm
+xPrime1 -50.0 mrad
+x2 37.0 mm
+dXPrime 30.0 mrad
+slope -0.8 rad/m
+positionStep 0.5 mm
+angleStep 1.5 mrad
+baseLine 5.0 us
+integStart 10.0 us
+integEnd 17.0 us
+DataPath ..
+SystemType MEBT

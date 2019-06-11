@@ -1,0 +1,4 @@
+export JYTHONPATH=$HOME/lib/openxal/build/dist/lib/xal-shared.jar
+export JAVA_HOME=$HOME/lib/jdk1.8.0_211
+export PATH=$HOME/lib/openxal/bin:$PATH
+export PYTHONPATH=/home/student/lib/openxal/python/
